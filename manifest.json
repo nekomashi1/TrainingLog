@@ -1,0 +1,12 @@
+{
+  "name": "TrainingLog",
+  "short_name": "TrainingLog",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#272D32",
+  "theme_color": "#272D32",
+  "icons": [
+    { "src": "icon-144.png", "sizes": "144x144", "type": "image/png" }
+  ]
+}
